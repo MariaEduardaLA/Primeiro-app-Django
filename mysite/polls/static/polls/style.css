@@ -1,0 +1,7 @@
+body {
+    background: purple url("images/background.gif");
+}
+
+li a {
+    color: red;
+}
